@@ -1,0 +1,3 @@
+smtp,porta,modelo,assunto,tags,email,nome,titulo
+coloque o endereço aqui,465,digite as tags para serem substituídas entre chaves duplas exemplo {{titulo}} {{nome}},digite o assunto aqui,nome,exemplo@exemplo.com,Nome Exemplo,Exemplissimo
+,,,,titulo,exemplo2@exemplo.com,Exemplo Exemplar,Testador
